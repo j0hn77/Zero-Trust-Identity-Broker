@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Security certificates and secrets
+*.pem
+*.key
+.env
+.env.*
+
+# Databases
+*.db
+*.sqlite3
+
+# Audit logs
+*.log
+
+# Uploaded files
+dashboard/uploads/
+
+# Archives
+*.zip
+
+# macOS
+.DS_Store
+.localized
